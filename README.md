@@ -1,6 +1,6 @@
 
 
-# Celo Network: The Valora Digital Wallet
+# Celo Network's Valora Digital Wallet
 ### The Digital Wallet That Supports Global Payments with Crypto & Earn Rewards 
 ----
 ![Celo Logo](https://play-lh.googleusercontent.com/hXkOFFMLazYOJkSXBP1aqp24l2Kq0QcZ8BF5EODs_i3pSDjQw8rz2Casp0O-Gs8Y4w)
