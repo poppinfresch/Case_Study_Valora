@@ -40,7 +40,7 @@ Written by Odette Popko
 
 ----
 ## Landscape
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valora falls under the domain of mobile dapps, using blockchain, cryptocurrencies to make payments and remittances. Many companies have partnered with Celo to use it as a mainstay for paying their employees and service providers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valora falls under the domain of mobile dapps, blockchain technology, and cryptocurrencies to make payments and remittances. Many companies have partnered with Celo to use it as a mainstay for paying their employees and service providers.
 
 &nbsp;&nbsp;&nbsp;Venmo, Coinbase Wallet, Voyager, Metamask, are all similar platforms that serve as exchanges, wallets, or cash apps. While they all differ in what they specialize in, they are always competing for market share. Venmo only recently added crypto to their platform after they realized the shift towards decentralized finance. Now you can buy BTC, ETH, LTC, and BCH on Venmo & then send it to your friends. When one app in the mobile crypto domain releases a new feature that threatens the survival of the others, evolution occurs. Valora will need to adapt to the evolving market to compete with Venmo's features. 
 
