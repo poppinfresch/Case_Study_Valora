@@ -3,7 +3,9 @@
 # Celo Network's Valora Digital Wallet
 ### The Digital Wallet That Supports Global Payments with Crypto 
 ----
-![Celo Logo](https://play-lh.googleusercontent.com/hXkOFFMLazYOJkSXBP1aqp24l2Kq0QcZ8BF5EODs_i3pSDjQw8rz2Casp0O-Gs8Y4w)
+ <p align="center">
+  <img width="" height="" src="https://play-lh.googleusercontent.com/hXkOFFMLazYOJkSXBP1aqp24l2Kq0QcZ8BF5EODs_i3pSDjQw8rz2Casp0O-Gs8Y4w">
+</p>
 
 ----
 ## Introducing Valora
@@ -22,9 +24,10 @@
 
 &nbsp;&nbsp;&nbsp;The target market for Valora is basically anyone with a smartphone that is also interested in storing, using, and sending cryptocurrency to others with quick and painless transactions. Those who wish to send remmittance payments to family and friends in other countries. Those who are new to cryptocurrency and wish to learn more about how they can be used to make life simpler. Valora spent much of its initial investment towards educational purposes to expose the simplicity and ease that crypto can bring to the every day person. As of July, 27, 2021 it was reported there were over 200k users with a balance on Valora. There are over 53,000 active monthly users across 100 countries worldwide that use Valora as a way to make payments, send, and save. 
 
-&nbsp;&nbsp;&nbsp;Above all the qualities that deem this app evolutionary - is the app's usability. Most crypto wallets and exchanges can be pretty complicated and confusing for a first time crypto user. Those who aren't already tech savvy can be discouraged by the high learning curve, leaving millions of users behind who don't have the technical knowledge to navigate the process. Upon first login of the Valor app, its platform is a familiar one. The apps layout is almost a mirror image to that of Venmo or paypal. For anyone who has used online banking or sent money to friends using a cashapp, the home page is a welcome sight - no pun intended. Enjoy earning 5% interest on your crypto and cash out with ease.
+&nbsp;&nbsp;&nbsp;Above all the qualities that deem this app evolutionary - is the app's usability. Most crypto wallets and exchanges can be pretty complicated and confusing for a first time crypto user. Those who aren't already tech savvy can be discouraged by the high learning curve, leaving millions of users behind who don't have the technical knowledge to navigate the process. Upon first login of the Valor app, its platform is a familiar one. The app's layout is almost a mirror image to that of Venmo or paypal. For anyone who has used online banking or sent money to friends using a cashapp, the home page is a welcome sight - no pun intended. Enjoy earning 5% interest on your crypto or cash out with ease.
 
-![valora home page](https://images.ctfassets.net/ydgnnqrxvkzo/1HUeAm167SrItOF00qYUbk/ffe7a96d17bdfac07589fdef3324f346/Request__1_.jpg)
+<p align="center" >
+<img width="" height="" src="https://images.ctfassets.net/ydgnnqrxvkzo/1HUeAm167SrItOF00qYUbk/ffe7a96d17bdfac07589fdef3324f346/Request__1_.jpg"></p>
 
 ----
 ## Technology
@@ -42,10 +45,16 @@
 
 &nbsp;&nbsp;&nbsp;The day Venmo launched crypto on Venmo, 30% of Venmo's 70 million users used the new feature. In the 20 years paypal has been around, it has cultivated over 375 million users. Valora seems to be holding its own with a current 200k total users and 53k active monthly users in just 5 months since the platform launched. Valora uses the cGLD coin as the infrastructure for its platform, upon launch the price of cGLD hovered around $2.85 per coin. over the next few months it saw the highest highs of its lifetime, topping at $7.30 per coin. With a supply of 287 coins and a market cap of 783.3 million, cGLD holds the #11 spot on coinbase's popularit list, right behind COMP Wallet. Celo has held strong against its competitors and seems to have earned its spot in the race for the long-run. 
 
+<p align="center" >
+<img width="" height="" src="https://blog.coinlist.co/content/images/2020/05/auction.png">
+</p>
+
+*Performance chart of Celo GOLD's debute auction on Coinlist. (Coinlist Blog, May, 12, 2020)*
+
 ----
 ## Results
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Companies have adopted the Celo Blockchain as a ledger for their company's payroll. Others have formed an alliance with Celo to bring financial tools to refugees. Celo has built alliances with more than 130 organizations all over the world to work towards shared goals. 
-With so many innovations in blockchain & uses for crypto, its hard to belive the industry is only in its infancy. With Blockchain just over a decade old, 50% of the worlds population holding a smartphone, 70 million of those users have a blockchain wallet of some kind, & 200k of those users chose Valora.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Companies have adopted the Celo Blockchain as a ledger for their company's payroll. Others have formed an alliance with Celo to bring financial tools to refugees. Celo is backed by venture funds, academics, experts from many fields, and formed alliances with more than 130 organizations all over the world working towards shared goals.
+With so many innovations in blockchain & uses for crypto, its hard to belive the industry is only in its infancy. With cryptocurrency's inception just over a decade ago, and 50% of the world using smartphones, 70 million of those users have a blockchain wallet of some kind and 200k of those users chose Valora.
 
 ----
 ## Recommendations
@@ -61,3 +70,4 @@ With so many innovations in blockchain & uses for crypto, its hard to belive the
 5) https://cointelegraph.com/news/crypto-app-valora-raises-20m-becomes-independent-from-celo
 6) https://clabs.co/
 7) https://www.coinbase.com/price/celo
+8) https://blog.coinlist.co/celo-gold-auction-sells-out-on-coinlist/
