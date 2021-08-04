@@ -14,7 +14,7 @@ Written by Odette Popko
 
 &nbsp;&nbsp;&nbsp; Rene Reinsberg, Sep Kamvar, and Marek Olszewski co-founded the Celo framework and blockchain from which Valora operates. Jackie Bona, one of Valora's initial investors, has now assumed CEO of the company after leading the founding team that developed the payment app. The Valora app now operates as its own independent company running on the Celo network.
 
-&nbsp;&nbsp;&nbsp; The idea for the Valora payment app was inspired by the notion that people should be able to govern their own money, be able to send, receive and pay for services instantly and without having to deal with intermediaries. It started as a crypto wallet but has evolved to become the next Venmo for crypto. When they created the Celo network a financial system that provided its users with financial freedom.
+&nbsp;&nbsp;&nbsp; The idea for the Valora payment app was inspired by the notion that people should be able to govern their own money, be able to send, receive and pay for services instantly and without having to deal with intermediaries. It started as a crypto wallet but has evolved to become the next Venmo for crypto. The mission behind the Celo network was to build a financial system that provides its users with financial freedom.
 
 &nbsp;&nbsp;&nbsp; The company raised a whopping 20 million dollars with its first round of venture capital financing through selling its Celo stock. They decided to use the funds for product development and educational content that helps users become more accustomed to using cryptocurrencies. Many of the original backers of Celo went on to contribute capital that funded the Valora project.
 
