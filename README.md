@@ -49,6 +49,7 @@
 <img width="" height="" src="https://blog.coinlist.co/content/images/2020/05/auction.png">
 </p>
 <p align="center" >
+
 *Performance chart of Celo GOLD's debute auction on Coinlist. (Coinlist Blog, May, 12, 2020)*
 </p>
 
